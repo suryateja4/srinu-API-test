@@ -1,2 +1,6 @@
 hello world.
+
 Welcome to vizag.
+
+Welcome to skota.
+
